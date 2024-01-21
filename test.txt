@@ -1,0 +1,2 @@
+step,type,amount,oldbalanceOrg,newbalanceOrig,oldbalanceDest,newbalanceDest,isFlaggedFraud,isFraud
+743,CASH_OUT,850002.52,850002.52,0.0,6510099.11,7360101.63,0,1

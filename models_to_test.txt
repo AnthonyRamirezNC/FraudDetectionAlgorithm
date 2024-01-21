@@ -2,3 +2,8 @@ random forest regressor
 - reduced overfitting by averaging multiple trees
 - more robust to outliers
 -better for handling imbalanced datasets
+
+Isolation Forest
+- reduced overfitting by averaging multiple trees
+- more robust to outliers
+-better for handling imbalanced datasets
